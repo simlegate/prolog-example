@@ -5,6 +5,9 @@ size([_|T],N):- size(T,N1),N is N1+1.
 
 % size([H|T],N):- size(T,N1),N is N1+1.
 %   warning: Singleton variables: [H]
+%
+% Singleton variable checking
+% http://www.swi-prolog.org/man/syntax.html
 
 % example:
 %
