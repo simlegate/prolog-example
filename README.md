@@ -1,4 +1,4 @@
-prolog-example
+Prolog Examples
 ==============
 
 Some Prolog learning examples.
