@@ -16,4 +16,4 @@ sumlist([H|T],N) :- sumlist(T,N1), N is H+N1.
 %   
 %   sumlist([1,2,0,3], B).
 %
-%   B = 0.
+%   B = 6.
